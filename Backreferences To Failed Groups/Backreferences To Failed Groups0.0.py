@@ -1,1 +1,0 @@
-Regex_Pattern = r"^(\d){8}$|^(\d\d\-?){4}$"	# Do not delete 'r'.

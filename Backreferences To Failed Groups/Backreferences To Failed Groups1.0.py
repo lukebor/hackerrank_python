@@ -1,0 +1,1 @@
+Regex_Pattern = r"^(\d){8}$|^(\d\d\-){3}(\d)$"	# Do not delete 'r'.

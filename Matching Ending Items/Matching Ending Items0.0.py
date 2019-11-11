@@ -1,0 +1,1 @@
+Regex_Pattern = r'[a-zA-z]*s$|s$'	# Do not delete 'r'.
